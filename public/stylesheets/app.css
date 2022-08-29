@@ -1,0 +1,10 @@
+#cluster-map {
+    width: 100%;
+    height: clamp(300px, 100vw / 2.5, 50vh);
+    margin-bottom: 1rem;
+}
+
+#show-map {
+    width: 100%;
+    height: 300px;
+}
